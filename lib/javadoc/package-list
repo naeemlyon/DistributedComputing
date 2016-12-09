@@ -1,0 +1,11 @@
+jdistlib
+jdistlib.disttest
+jdistlib.evd
+jdistlib.generic
+jdistlib.math
+jdistlib.math.approx
+jdistlib.math.density
+jdistlib.math.spline
+jdistlib.matrix
+jdistlib.rng
+jdistlib.util
