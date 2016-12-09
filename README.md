@@ -1,5 +1,6 @@
 Distributed Computing
 Naive Bayes, Regression, aggregation, reducejoin
+Connect R Stdio from Java
 =========
 # MapReduceTutorial
 # JDK Link in pom.xml
