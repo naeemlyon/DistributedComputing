@@ -1,5 +1,5 @@
-
-Opportunity Analyzer
+Distributed Computing
+Naive Bayes, Regression, aggregation, reducejoin
 =========
 # MapReduceTutorial
 # JDK Link in pom.xml
